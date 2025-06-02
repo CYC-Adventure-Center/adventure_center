@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://CYC-Adventure-Center.github.io/adventure_center/sitemap.xml
