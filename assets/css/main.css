@@ -396,3 +396,8 @@ body .main > section.single-page:first-of-type {
 .gallery .gallery-img:hover {
     transform: scale(1.01);
 }
+
+/*post iframe*/
+section.single-page .post__iframe {
+  text-align: center;
+}
